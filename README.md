@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">Reach me on</h3>
+<h3 align="left">💬 Reach me on</h3>
 
 ###
 
@@ -25,7 +25,7 @@
 
 ###
 
-<h3 align="left">Technologies i use</h3>
+<h3 align="left">👨‍💻 Technologies I use</h3>
 
 ###
 
